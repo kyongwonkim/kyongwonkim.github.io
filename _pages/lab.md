@@ -9,18 +9,32 @@ classes: wide
 
 - Chaehyun Ryu
 
-### <span style="color:green"> Master Students
+### <span style="color:green"> M.S. Students
 
+- Ahreum Lee 
 
+- Gayun Kwon 
 
-- Chanmi Yoo
+- Yeji Kim 
 
-- Haein Jeon
+- Seoyoung Kim 
 
-- Jiyeoung Kang 
+- Seeun Kim 
 
-- GiJeong Noh
+- Hayoung Kim 
 
-- Kyungjin Lee (First job: Begas)
+- Deokhwa Kang 
 
-- Soyeon Choi (First job: Chong Kun Dang Pharmaceutical Corp (종근당))
+- Heesook Kim
+
+- Chanmi Yoo (M.S. 2023)
+
+- Haein Jeon (M.S. 2023)
+
+- Jiyeong Kang (M.S. 2023)
+
+- Gijeong Noh (M.S. 2023)
+
+- Kyungjin Lee (M.S. 2023, First job: Begas)
+
+- Soyeon Choi (M.S. 2022, First job: Chong Kun Dang Pharmaceutical Corp (종근당))

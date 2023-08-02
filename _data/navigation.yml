@@ -5,9 +5,12 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  
+  - title: "Students"
+    url: /lab/
         
   - title: "Contact"
     url: /others/
     
-  - title: "Lab Members"
-    url: /lab/
+

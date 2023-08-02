@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 classes: wide
 ---
 
 ##  <span style="color:green"> Ewha Womans University
+
+- Proabability Theory (Graduate), Spring 2023
+
+- Functional Data Analysis (Graduage), Spring 2021, 2022
+
+- Sufficient Dimension Reduction (Graduate), Fall 2021, 2022, 2023
 
 - Regression Analysis, Fall 2023
 
