@@ -1,0 +1,34 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+classes: wide
+---
+
+##  <span style="color:green"> Ewha Womans University
+
+- Regression Analysis, Fall 2023
+
+- Mathematical Statistics, Spring 2023
+
+ - Basic Probability Theory, Fall 2022
+
+  - Statistics 1, Spring 2021, 2022
+
+  - Statistics 2, Fall 2021
+  
+  
+##  <span style="color:green"> Wake Forest University
+
+  -  Statistical Models, Fall 2020
+
+##  <span style="color:green"> Pennsylvania State University
+
+
+- Introduction to Probability and Stochastic Processing for Engineering, Fall 2018, Fall 2019
+- Applied Statistics in Science, Spring 2019 
+- Experimental Methods, Summer 2018
+- Elementary Statistics, Summer 2017 
+- Real Analysis: Teaching incoming first year Ph.D. students, Summer 2019 
+ 
