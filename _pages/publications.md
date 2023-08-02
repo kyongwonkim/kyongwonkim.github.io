@@ -15,7 +15,7 @@ author_profile: true
 - Yujin Park., **kyongwon Kim**.<span>*<span>, and Jae Keun Yoo. (2022). [On cross-distance selection algorithm for hybrid sufficient dimension reduction](https://www.sciencedirect.com/science/article/pii/S0167947322001426?casa_token=2RBEHon6lTgAAAAA:TQ8fczR7qYdMAUG7kJrAppCch4DqB0qQqMoifiPZt3YaYxzryCoVVBbkiRTVhaXVL3D4dJcn30Y). Computational Statistics & Data Analysis, 176, 107562.
 
 
-- *kyongwon Kim**.<span>*<span>., Jae Keun Yoo. (2021) . [More on directional regression](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2021.28.5.553). Communications for Statistical Applications and Methods 28(5), 553-562.
+- **kyongwon Kim**.<span>*<span>., Jae Keun Yoo. (2021) . [More on directional regression](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2021.28.5.553). Communications for Statistical Applications and Methods 28(5), 553-562.
 
 - **Kyongwon Kim.**, Bing Li., Zhou Yu., and Lexin Li.  (2020). [On Post Dimension Reduction Statistical Inference](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-3/On-post-dimension-reduction-statistical-inference/10.1214/19-AOS1859.full). The Annals of Statistics, Volume 48, Number 3, 1567-1592.
 
