@@ -33,6 +33,6 @@ classes: wide
 
 - Gijeong Noh (M.S. 2023)
 
-- Kyungjin Lee (M.S. 2023, First job: Begas)
+- Kyungjin Lee (M.S. 2023, First job: Begas (베가스))
 
 - Soyeon Choi (M.S. 2022, First job: Chong Kun Dang Pharmaceutical Corp (종근당))
