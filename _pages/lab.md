@@ -17,15 +17,13 @@ classes: wide
 
 - Yeji Kim 
 
-- Seoyoung Kim 
-
 - Seeun Kim 
 
 - Hayoung Kim 
 
 - Deokhwa Kang 
 
-- Heesook Kim
+- Heesook Kim (M.S. 2023)
 
 - Chanmi Yoo (M.S. 2023)
 
