@@ -17,21 +17,21 @@ classes: wide
 
 - Yeji Kim 
 
-- Seeun Kim 
+- Seeun Kim (M.S. 2024)
 
-- Hayoung Kim 
+- Hayoung Kim (M.S. 2024, First job: Samsung Electronics (삼성전자))
 
-- Deokhwa Kang 
+- Deokhwa Kang (M.S. 2024)
 
-- Heesook Kim (M.S. 2023)
+- Heesook Kim (M.S. 2024)
 
-- Chanmi Yoo (M.S. 2023)
+- Chanmi Yoo (M.S. 2023, First job: Samsung Fire & Marine Insurance (삼성화재))
 
 - Haein Jeon (M.S. 2023)
 
-- Jiyeong Kang (M.S. 2023)
+- Jiyeong Kang (M.S. 2023, First job: Hanmi Pharmaceutical (한미약품))
 
-- Gijeong Noh (M.S. 2023)
+- Gijeong Noh (M.S. 2023, First job: OCI)
 
 - Kyungjin Lee (M.S. 2023, First job: Begas (베가스))
 
