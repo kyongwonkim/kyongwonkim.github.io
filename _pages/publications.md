@@ -8,7 +8,7 @@ author_profile: true
 <span>*<span> indicates the corresponding author.
 
 
-- Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://arxiv.org/abs/2307.04353). Journal of Machine Learning Research,  accepted.
+- Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://arxiv.org/abs/2307.04353). Journal of Machine Learning Research,  25(17), 1-64.
 
 
 
