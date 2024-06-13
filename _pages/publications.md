@@ -12,7 +12,7 @@ author_profile: true
 
 
 
-- **Kyongwon Kim.**<span>*<span>(2023). [A note on sufficient dimension reduction with post dimension reduction statistical inference](https://link.springer.com/article/10.1007/s10182-023-00491-x). AStA Advances in Statistical Analysis,  1-21.
+- **Kyongwon Kim**.<span>*<span>(2023). [A note on sufficient dimension reduction with post dimension reduction statistical inference](https://link.springer.com/article/10.1007/s10182-023-00491-x). AStA Advances in Statistical Analysis,  1-21.
 
 
 
@@ -36,7 +36,7 @@ author_profile: true
 - Yujin Park., Yoonhee Choi., **kyongwon Kim**.<span>*<span>, and Jae Keun Yoo., (2022). [Machine learning approach for study on subway passenger flow](https://www.nature.com/articles/s41598-022-06767-7). Scientific Reports, 12(1), 2754.
 
 
-- **Kyongwon Kim.**<span>*<span>(2022). [On principal graphical models with application to gene network](https://www.sciencedirect.com/science/article/pii/S016794732100178X?casa_token=xHkSruu-KlUAAAAA:sg_PTHXsdICwpPt1gf2WuYLO11ykoQM6KAgCC3j--LrbZLpOybOfajbAn_543PdoZlB1L7wd6kw). Computational Statistics & Data Analysis, 166, 107344.
+- **Kyongwon Kim**.<span>*<span>(2022). [On principal graphical models with application to gene network](https://www.sciencedirect.com/science/article/pii/S016794732100178X?casa_token=xHkSruu-KlUAAAAA:sg_PTHXsdICwpPt1gf2WuYLO11ykoQM6KAgCC3j--LrbZLpOybOfajbAn_543PdoZlB1L7wd6kw). Computational Statistics & Data Analysis, 166, 107344.
 
 
 - Jashwant  Thota., Eunsik Kim., Andris Freivalds., and **kyongwon Kim**. (2022). [Development and evaluation of attachable anti-vibration handle](https://www.sciencedirect.com/science/article/pii/S0003687021002180?casa_token=1ISBoXpUrOkAAAAA:Bf4pqNSXAp6g17TqvWSxbsMWOE_rCYCJCbV_sCKgOwAbK4YBgIByEZX0XgGW69zHaAeDW4Ae6z0). Applied Ergonomics, 98, 103571.
@@ -45,7 +45,7 @@ author_profile: true
 - **kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2021) . [More on directional regression](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2021.28.5.553). Communications for Statistical Applications and Methods 28(5), 553-562.
 
 
-- **Kyongwon Kim.**, Bing Li., Zhou Yu., and Lexin Li.  (2020). [On post dimension reduction statistical inference](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-3/On-post-dimension-reduction-statistical-inference/10.1214/19-AOS1859.full). The Annals of Statistics, Volume 48, Number 3, 1567-1592.
+- **Kyongwon Kim**., Bing Li., Zhou Yu., and Lexin Li.  (2020). [On post dimension reduction statistical inference](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-3/On-post-dimension-reduction-statistical-inference/10.1214/19-AOS1859.full). The Annals of Statistics, 48(3), 1567-1592.
 
 
 ## R Package
@@ -60,6 +60,7 @@ author_profile: true
 - Journal of Multivariate Analysis
 - Computational Statistics & Data Analysis
 - STAT
+- Statistical Papers
 - Journal of the Korean Statistical Society
 - PLOS One
 - R Journal
