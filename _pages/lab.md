@@ -15,19 +15,17 @@ classes: wide
 
 - Gayun Kwon 
 
-- Yeji Kim 
-
 - Seeun Kim (M.S. 2024)
 
 - Hayoung Kim (M.S. 2024, First job: Samsung Electronics (삼성전자))
 
-- Deokhwa Kang (M.S. 2024)
+- Deokhwa Kang (M.S. 2024, First job: LG Energy Solution (LG에너지솔루션))
 
 - Heesook Kim (M.S. 2024)
 
 - Chanmi Yoo (M.S. 2023, First job: Samsung Fire & Marine Insurance (삼성화재))
 
-- Haein Jeon (M.S. 2023)
+- Haein Jeon (M.S. 2023, First job: Lotte Insurance (롯데손해보험)))
 
 - Jiyeong Kang (M.S. 2023, First job: Hanmi Pharmaceutical (한미약품))
 
