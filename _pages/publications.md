@@ -7,6 +7,12 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
+- Eftychia Solea., Chaehyun Ryu., Bing Li., and **Kyongwon Kim**.<span>*<span> (2024+). Learning causal graphs via sufficient faithfulness. Submitted.
+
+- Jun Song., **Kyongwon Kim**.<span>*<span>, and Jae Keun Yoo (2024+). Valid asymptotic inference after sufficient dimension reduction in a single-index model. Submitted
+
+- Chaeyoung Lee., Minju Shin., David Eniyandunmo., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span> , Jae Keun Yoo., and Chris Lee.(2024). [Predicting driver's mental workload using physiological signals: A functional data analysis approach](https://www.sciencedirect.com/science/article/pii/S0003687024000516?dgcid=rss_sd_all). Applied Ergonomics,  118, 104274.
+
 
 - Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://www.jmlr.org/papers/volume25/23-0893/23-0893.pdf). Journal of Machine Learning Research,  25(17), 1-64.
 
@@ -51,6 +57,22 @@ author_profile: true
 ## R Package
 
 - SizeEstimation : Estimating Sizes of Populations at Risk of HIV Infection from Multiple Data Sources Using a Bayesian Hierarchical Model
+
+## Grants
+
+- (co-I)  Basic Research Laboratory (BRL) research grant from the National Research
+Foundation of Korea (NRF) (RS-2023-00219212),  Jun 2023 $\sim$ Feb 2026
+
+- (PI) High-Potential Individuals Global Training Program from IITP(Institute for Information $\&$
+Communications Technology Planning $\&$ Evaluation) (RS-2022-00154879), May 2022 $\sim$ Apr 2023
+
+- (co-I) PMC Service for Strengthening Financial Sector Early Warning and Contingency Management Capacity Project in Vietnam from KOICA and Financial Supervisory Service (FSS), Feb 2022 $\sim$ Dec 2025
+
+- (PI) Basic Science Research Program from the National Research Foundation of Korea (NRF) (No.2021R1F1A1046976) , Jun 2021 $\sim$ Feb 2024
+
+- (PI) Ewha Startup Grant, Mar 2021 $\sim$ Feb 2023
+
+- (PI) Ewha Startup Grant from College of Natural Science, Mar 2021 $\sim$ Feb 2023
 
 
 ## Reviewer
