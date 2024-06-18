@@ -86,6 +86,7 @@ Communications Technology Planning $\&$ Evaluation) (RS-2022-00154879), May 2022
 - Journal of the Korean Statistical Society
 - PLOS One
 - R Journal
+- Biometrics
 
 
 
