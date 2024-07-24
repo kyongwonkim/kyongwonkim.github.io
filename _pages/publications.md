@@ -11,7 +11,11 @@ author_profile: true
 
 - Jun Song., **Kyongwon Kim**.<span>*<span>, and Jae Keun Yoo (2024+). Valid asymptotic inference after sufficient dimension reduction in a single-index model. Submitted
 
+- David Eniyandunmo., MinJu Shin., Chaeyoung Lee., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span>, Yong Hoon Kim., and Chris Lee.(2024). [Utilising raw psycho-physiological data and functional data analysis for estimating mental workload in human drivers](https://www.tandfonline.com/doi/full/10.1080/00140139.2024.2379949). Ergonomics,  1-17
+
 - Chaeyoung Lee., Minju Shin., David Eniyandunmo., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span> , Jae Keun Yoo., and Chris Lee.(2024). [Predicting driver's mental workload using physiological signals: A functional data analysis approach](https://www.sciencedirect.com/science/article/pii/S0003687024000516?dgcid=rss_sd_all). Applied Ergonomics,  118, 104274.
+
+- Aditya Subramani Murugan., Gijeong Noh., Hayoung Jung., Eunsik Kim., **kyongwon Kim**., Heecheon You., Boubakeur Boufama.(2024). [Optimising computer vision-based ergonomic assessments: sensitivity to camera position and monocular 3D pose model](https://www.tandfonline.com/doi/abs/10.1080/00140139.2024.2304578). Ergonomics,  1-18.
 
 
 - Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://www.jmlr.org/papers/volume25/23-0893/23-0893.pdf). Journal of Machine Learning Research,  25(17), 1-64.
