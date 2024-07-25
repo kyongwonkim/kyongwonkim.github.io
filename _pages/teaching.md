@@ -8,11 +8,15 @@ classes: wide
 
 ##  <span style="color:green"> Ewha Womans University
 
+- Regression Analysis (Graduate), Fall 2024
+
 - Proabability Theory (Graduate), Spring 2023
 
 - Functional Data Analysis (Graduage), Spring 2021, 2022
 
 - Sufficient Dimension Reduction (Graduate), Fall 2021, 2022, 2023
+
+- Introduction to Stochastic Processes, Spring 2024
 
 - Regression Analysis, Fall 2023
 
