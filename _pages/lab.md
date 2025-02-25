@@ -5,11 +5,22 @@ author_profile: true
 classes: wide
 ---
 
+# <span style="color:blue"> Yonsei University
+
+### <span style="color:blue"> M.S. Students
+
+# <span style="color:green"> Ewha Womans University
 ### <span style="color:green"> Ph.D. Student
 
 - Chaehyun Ryu
 
 ### <span style="color:green"> M.S. Students
+
+- Suyeon Kim
+
+- Ho Yeon Ryu
+
+- Chaeyun Yeo
 
 - Ahreum Lee 
 
