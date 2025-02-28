@@ -20,4 +20,4 @@ My research interests include:
 * Causal Inference
 * Machine Learning and Deep Learning
 
-Email: kimk [at] ewha.ac.kr
+Email: kimk [at] yonsei.ac.kr

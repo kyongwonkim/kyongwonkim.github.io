@@ -20,8 +20,6 @@ classes: wide
 
 - Ho Yeon Ryu
 
-- Chaeyun Yeo
-
 - Ahreum Lee 
 
 - Gayun Kwon 
