@@ -10,13 +10,13 @@ author_profile: true
 - Eftychia Solea., Bing Li., and **Kyongwon Kim**.<span>*<span> (2025). [Learning causal graphs via nonlinear sufficient dimension reduction](https://www.jmlr.org/papers/v26/24-0048.html). Journal of Machine Learning Research,  26(75), 1-46.
 
 
-- Minjee Kim., Yujin Park., **Kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2025). [Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components](https://link.springer.com/article/10.1007/s11222-025-10633-7). Statistics and Computing,  35(4), 95.
+- Minjee Kim., Yujin Park., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components](https://link.springer.com/article/10.1007/s11222-025-10633-7). Statistics and Computing,  35(4), 95.
 
 
 - Gayun Kwon. and **Kyongwon Kim**.<span>*<span> (2025). [Sparse sufficient dimension reduction for directional regression](https://link.springer.com/article/10.1186/s40537-025-01219-1). Journal of Big Data,  12(1), 163.
 
 
-- Yujin Park., **Kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2025). [On sufficient dimension reduction methods based on a graphical model with non-concave penalty](https://link.springer.com/article/10.1007/s11222-025-10625-7). Statistics and Computing,  35(4), 94.
+- Yujin Park., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [On sufficient dimension reduction methods based on a graphical model with non-concave penalty](https://link.springer.com/article/10.1007/s11222-025-10625-7). Statistics and Computing,  35(4), 94.
 
 - Ahreum Lee. and **Kyongwon Kim**.<span>*<span> (2025). [Multivariate response directional regression: a projective resampling approach](https://link.springer.com/article/10.1186/s40537-025-01166-x). Journal of Big Data,  12(1), 123.
 
