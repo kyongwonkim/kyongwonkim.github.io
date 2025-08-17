@@ -33,7 +33,7 @@ author_profile: true
 
 
 
-- Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://www.jmlr.org/papers/volume25/23-0893/23-0893.pdf). Journal of Machine Learning Research,  25(17), 1-64.
+- Bing Li. and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://www.jmlr.org/papers/volume25/23-0893/23-0893.pdf). Journal of Machine Learning Research,  25(17), 1-64.
 
 
 
@@ -51,7 +51,7 @@ author_profile: true
 
 
 
-- Jun Song., and **Kyongwon Kim**.<span>*<span> (2022). [Sparse multivariate functional principal component analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.435). Stat, 11(1), e435.
+- Jun Song. and **Kyongwon Kim**.<span>*<span> (2022). [Sparse multivariate functional principal component analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.435). Stat, 11(1), e435.
 
 
 
@@ -67,7 +67,7 @@ author_profile: true
 - Jashwant  Thota., Eunsik Kim., Andris Freivalds., and **kyongwon Kim**. (2022). [Development and evaluation of attachable anti-vibration handle](https://www.sciencedirect.com/science/article/pii/S0003687021002180?casa_token=1ISBoXpUrOkAAAAA:Bf4pqNSXAp6g17TqvWSxbsMWOE_rCYCJCbV_sCKgOwAbK4YBgIByEZX0XgGW69zHaAeDW4Ae6z0). Applied Ergonomics, 98, 103571.
 
 
-- **kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2021) . [More on directional regression](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2021.28.5.553). Communications for Statistical Applications and Methods 28(5), 553-562.
+- **kyongwon Kim**. and Jae Keun Yoo. <span>*<span> (2021) . [More on directional regression](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2021.28.5.553). Communications for Statistical Applications and Methods 28(5), 553-562.
 
 
 - **Kyongwon Kim**., Bing Li., Zhou Yu., and Lexin Li.  (2020). [On post dimension reduction statistical inference](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-3/On-post-dimension-reduction-statistical-inference/10.1214/19-AOS1859.full). The Annals of Statistics, 48(3), 1567-1592.
