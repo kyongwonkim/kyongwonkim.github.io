@@ -7,7 +7,19 @@ classes: wide
 
 # <span style="color:blue"> Yonsei University
 
+### <span style="color:blue"> Ph.D. Student
+
+- Hyungjin Kim
+
 ### <span style="color:blue"> M.S. Students
+
+- Dohyun Kim
+
+- Hyungryul Park
+
+- Heegeon Han
+
+- Gitaek Jeong
 
 # <span style="color:green"> Ewha Womans University
 ### <span style="color:green"> Ph.D. Student
@@ -20,11 +32,11 @@ classes: wide
 
 - Ho Yeon Ryu
 
-- Ahreum Lee 
+- Ahreum Lee (M.S. 2025, First job: Ph.D. Program at Florida State University, Department of Statistics)
 
-- Gayun Kwon 
+- Gayun Kwon (M.S. 2025, First job: Ph.D. Program at Texas A & M University, Department of Statistics)
 
-- Seeun Kim (M.S. 2024)
+- Seeun Kim (M.S. 2024, First job: Samsung Fire & Marine Insurance (삼성화재))
 
 - Hayoung Kim (M.S. 2024, First job: Samsung Electronics (삼성전자))
 
