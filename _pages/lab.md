@@ -32,9 +32,9 @@ classes: wide
 
 - Ho Yeon Ryu
 
-- Ahreum Lee (M.S. 2025, First job: Ph.D. Program at Florida State University, Department of Statistics)
+- Ahreum Lee (M.S. 2025, First job: Ph.D. Program at Florida State University)
 
-- Gayun Kwon (M.S. 2025, First job: Ph.D. Program at Texas A & M University, Department of Statistics)
+- Gayun Kwon (M.S. 2025, First job: Ph.D. Program at Texas A & M University)
 
 - Seeun Kim (M.S. 2024, First job: Samsung Fire & Marine Insurance (삼성화재))
 
