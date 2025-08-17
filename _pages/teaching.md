@@ -6,6 +6,14 @@ author_profile: true
 classes: wide
 ---
 
+
+##  <span style="color:blue"> Yonsei University
+
+- Linear Models (Graduate), Spring 2025
+
+- Mathematical Statistics II , Spring 2025
+
+
 ##  <span style="color:green"> Ewha Womans University
 
 - Regression Analysis (Graduate), Fall 2024
@@ -20,7 +28,7 @@ classes: wide
 
 - Regression Analysis, Fall 2023
 
-- Mathematical Statistics, Spring 2023
+- Mathematical Statistics I , Spring 2023
 
  - Basic Probability Theory, Fall 2022
 

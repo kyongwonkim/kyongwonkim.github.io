@@ -7,15 +7,30 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
-- Eftychia Solea., Chaehyun Ryu., Bing Li., and **Kyongwon Kim**.<span>*<span> (2024+). Learning causal graphs via sufficient faithfulness. Submitted.
+- Eftychia Solea., Bing Li., and **Kyongwon Kim**.<span>*<span> (2025). [Learning causal graphs via nonlinear sufficient dimension reduction](https://www.jmlr.org/papers/v26/24-0048.html). Journal of Machine Learning Research,  26(75), 1-46.
 
-- Jun Song., **Kyongwon Kim**.<span>*<span>, and Jae Keun Yoo (2024+). Valid asymptotic inference after sufficient dimension reduction in a single-index model. Submitted
 
-- David Eniyandunmo., MinJu Shin., Chaeyoung Lee., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span>, Yong Hoon Kim., and Chris Lee. (2024). [Utilising raw psycho-physiological data and functional data analysis for estimating mental workload in human drivers](https://www.tandfonline.com/doi/full/10.1080/00140139.2024.2379949). Ergonomics,  1-17
+- Minjee Kim., Yujin Park., **Kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2025). [Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components](https://link.springer.com/article/10.1007/s11222-025-10633-7). Statistics and Computing,  35(4), 95.
+
+
+- Gayun Kwon. and **Kyongwon Kim**.<span>*<span> (2025). [Sparse sufficient dimension reduction for directional regression](https://link.springer.com/article/10.1186/s40537-025-01219-1). Journal of Big Data,  12(1), 163.
+
+
+- Yujin Park., **Kyongwon Kim**., and Jae Keun Yoo. <span>*<span> (2025). [On sufficient dimension reduction methods based on a graphical model with non-concave penalty](https://link.springer.com/article/10.1007/s11222-025-10625-7). Statistics and Computing,  35(4), 94.
+
+- Ahreum Lee. and **Kyongwon Kim**.<span>*<span> (2025). [Multivariate response directional regression: a projective resampling approach](https://link.springer.com/article/10.1186/s40537-025-01166-x). Journal of Big Data,  12(1), 123.
+
+
+- David Eniyandunmo., MinJu Shin., Chaeyoung Lee., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span>, Yong Hoon Kim., and Chris Lee. (2025). [Utilising raw psycho-physiological data and functional data analysis for estimating mental workload in human drivers](https://www.tandfonline.com/doi/full/10.1080/00140139.2024.2379949). Ergonomics,  68(4), 602-618
+
+- Aditya Subramani Murugan., Gijeong Noh., Hayoung Jung., Eunsik Kim., **kyongwon Kim**., Heecheon You., Boubakeur Boufama. (2025). [Optimising computer vision-based ergonomic assessments: sensitivity to camera position and monocular 3D pose model](https://www.tandfonline.com/doi/abs/10.1080/00140139.2024.2304578). Ergonomics, 68(1), 120-137
+
+- Yohee Han., Saeideh Esmaeili., Haesung Ahn., Yong Hoon Kim., **kyongwon Kim**. (2024). [Vehicle-Specific Virtual Traffic Control Strategy to Reduce the Start-up Delay for Autonomous Heavy Trucks](https://ieeexplore.ieee.org/abstract/document/10748353). IEEE Transactions on Intelligent Vehicles
+
 
 - Chaeyoung Lee., Minju Shin., David Eniyandunmo., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span> , Jae Keun Yoo., and Chris Lee. (2024). [Predicting driver's mental workload using physiological signals: A functional data analysis approach](https://www.sciencedirect.com/science/article/pii/S0003687024000516?dgcid=rss_sd_all). Applied Ergonomics,  118, 104274.
 
-- Aditya Subramani Murugan., Gijeong Noh., Hayoung Jung., Eunsik Kim., **kyongwon Kim**., Heecheon You., Boubakeur Boufama. (2024). [Optimising computer vision-based ergonomic assessments: sensitivity to camera position and monocular 3D pose model](https://www.tandfonline.com/doi/abs/10.1080/00140139.2024.2304578). Ergonomics,  1-18.
+
 
 
 - Bing Li., and **Kyongwon Kim**.<span>*<span> (2024). [On sufficient graphical models](https://www.jmlr.org/papers/volume25/23-0893/23-0893.pdf). Journal of Machine Learning Research,  25(17), 1-64.
