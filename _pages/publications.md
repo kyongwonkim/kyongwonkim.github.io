@@ -13,7 +13,7 @@ author_profile: true
 - Minjee Kim., Yujin Park., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components](https://link.springer.com/article/10.1007/s11222-025-10633-7). Statistics and Computing,  35(4), 95.
 
 
-- Gayun Kwon. and **Kyongwon Kim**.<span>*<span> (2025). [Sparse sufficient dimension reduction for directional regression](https://link.springer.com/article/10.1186/s40537-025-01219-1). Journal of Big Data,  12(1), 163.
+- Gayun Kwon., Gijeong Noh., and **Kyongwon Kim**.<span>*<span> (2025). [Sparse sufficient dimension reduction for directional regression](https://link.springer.com/article/10.1186/s40537-025-01219-1). Journal of Big Data,  12(1), 163.
 
 
 - Yujin Park., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [On sufficient dimension reduction methods based on a graphical model with non-concave penalty](https://link.springer.com/article/10.1007/s11222-025-10625-7). Statistics and Computing,  35(4), 94.
