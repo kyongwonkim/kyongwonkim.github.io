@@ -80,7 +80,7 @@ author_profile: true
 ## Grants
 
 - (PI)  Outstanding Young Scientist Grants research grant from the National Research
-Foundation of Korea (NRF) (RS-2023-00219212),  Mar 2025 $\sim$ Feb 2030
+Foundation of Korea (NRF) (RS-2025-00513476),  Mar 2025 $\sim$ Feb 2030
 
 - (co-I)  Basic Research Laboratory (BRL) research grant from the National Research
 Foundation of Korea (NRF) (RS-2023-00219212),  Jun 2023 $\sim$ Feb 2026
