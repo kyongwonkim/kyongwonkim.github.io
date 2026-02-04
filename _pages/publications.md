@@ -10,7 +10,7 @@ author_profile: true
 
 - **Kyongwon Kim**., Jun Song., and Jae Keun Yoo (2026). [Valid asymptotic inference after sufficient dimension reduction in a single-index framework](https://link.springer.com/article/10.1007/s11222-025-10778-5). Statistics and Computing,  36(24), 1-30.
 
-- Minji Park., Minjeong Park.,  *Kyongwon Kim**., Kyuri Jo., and Jae Youn Ahn (2026). [On the bias of commercial insurance premiums](https://www.sciencedirect.com/science/article/pii/S0377042725005333). Journal of Computational and Applied Mathematics,  475(117019), 1-19.
+- Minji Park., Minjeong Park.,  **Kyongwon Kim**., Kyuri Jo., and Jae Youn Ahn (2026). [On the bias of commercial insurance premiums](https://www.sciencedirect.com/science/article/pii/S0377042725005333). Journal of Computational and Applied Mathematics,  475(117019), 1-19.
 
 - Eftychia Solea., Bing Li., and **Kyongwon Kim**.<span>*<span> (2025). [Learning causal graphs via nonlinear sufficient dimension reduction](https://www.jmlr.org/papers/v26/24-0048.html). Journal of Machine Learning Research,  26(75), 1-46.
 
