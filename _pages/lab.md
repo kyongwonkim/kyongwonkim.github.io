@@ -1,12 +1,10 @@
 ---
-title: "Lab members"
+title: "Ph.D. Students"
 permalink: /lab/
 author_profile: true
 classes: wide
 ---
 
-
-# Ph.D. Student
 
 - Hyungjin Kim
 
