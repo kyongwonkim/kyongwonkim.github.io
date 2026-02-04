@@ -5,13 +5,14 @@ author_profile: true
 classes: wide
 ---
 
-# <span style="color:blue"> Yonsei University
 
-### <span style="color:blue"> Ph.D. Student
+# Ph.D. Student
 
 - Hyungjin Kim
 
-### <span style="color:blue"> M.S. Students
+- Chaehyun Ryu
+
+# M.S. Students
 
 - Dohyun Kim
 
@@ -20,13 +21,6 @@ classes: wide
 - Heegeon Han
 
 - Gitaek Jeong
-
-# <span style="color:green"> Ewha Womans University
-### <span style="color:green"> Ph.D. Student
-
-- Chaehyun Ryu
-
-### <span style="color:green"> M.S. Students
 
 - Suyeon Kim
 
