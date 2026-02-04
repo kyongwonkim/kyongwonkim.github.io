@@ -9,9 +9,9 @@ classes: wide
 
 ##  Yonsei University
 
-- Linear Models (Graduate), Spring 2025
+- Linear Models (Graduate), Spring 2025, 2026
 
-- Mathematical Statistics II , Spring 2025
+- Mathematical Statistics II , 2025, 2026
 
 
 ##  Ewha Womans University
@@ -37,11 +37,11 @@ classes: wide
   - Statistics 2, Fall 2021
   
   
-##  <span style="color:green"> Wake Forest University
+##  Wake Forest University
 
   -  Statistical Models, Fall 2020
 
-##  <span style="color:green"> Pennsylvania State University
+##  Pennsylvania State University
 
 
 - Introduction to Probability and Stochastic Processing for Engineering, Fall 2018, Fall 2019
