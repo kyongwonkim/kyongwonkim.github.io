@@ -7,6 +7,11 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
+
+- **Kyongwon Kim**., Jun Song., and Jae Keun Yoo (2026). [Valid asymptotic inference after sufficient dimension reduction in a single-index framework](https://link.springer.com/article/10.1007/s11222-025-10778-5). Statistics and Computing,  36(24), 1-30.
+
+- Minji Park., Minjeong Park.,  *Kyongwon Kim**., Kyuri Jo., and Jae Youn Ahn (2026). [On the bias of commercial insurance premiums](https://www.sciencedirect.com/science/article/pii/S0377042725005333). Journal of Computational and Applied Mathematics,  475(117019), 1-19.
+
 - Eftychia Solea., Bing Li., and **Kyongwon Kim**.<span>*<span> (2025). [Learning causal graphs via nonlinear sufficient dimension reduction](https://www.jmlr.org/papers/v26/24-0048.html). Journal of Machine Learning Research,  26(75), 1-46.
 
 
@@ -25,7 +30,7 @@ author_profile: true
 
 - Aditya Subramani Murugan., Gijeong Noh., Hayoung Jung., Eunsik Kim., **kyongwon Kim**., Heecheon You., Boubakeur Boufama. (2025). [Optimising computer vision-based ergonomic assessments: sensitivity to camera position and monocular 3D pose model](https://www.tandfonline.com/doi/abs/10.1080/00140139.2024.2304578). Ergonomics, 68(1), 120-137
 
-- Yohee Han., Saeideh Esmaeili., Haesung Ahn., Yong Hoon Kim., **kyongwon Kim**. (2024). [Vehicle-Specific Virtual Traffic Control Strategy to Reduce the Start-up Delay for Autonomous Heavy Trucks](https://ieeexplore.ieee.org/abstract/document/10748353). IEEE Transactions on Intelligent Vehicles
+- Yohee Han., Saeideh Esmaeili., Haesung Ahn., Yong Hoon Kim., **kyongwon Kim**. (2025). [Vehicle-Specific Virtual Traffic Control Strategy to Reduce the Start-up Delay for Autonomous Heavy Trucks](https://ieeexplore.ieee.org/abstract/document/10748353). IEEE Transactions on Intelligent Vehicles
 
 
 - Chaeyoung Lee., Minju Shin., David Eniyandunmo., Alvee Anwar., Eunsik Kim., **Kyongwon Kim**.<span>*<span> , Jae Keun Yoo., and Chris Lee. (2024). [Predicting driver's mental workload using physiological signals: A functional data analysis approach](https://www.sciencedirect.com/science/article/pii/S0003687024000516?dgcid=rss_sd_all). Applied Ergonomics,  118, 104274.
