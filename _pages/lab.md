@@ -12,6 +12,10 @@ classes: wide
 
 # M.S. Students
 
+- Jungmin Lee
+
+- Seohyun Won
+
 - Dohyun Kim
 
 - Hyungryul Park

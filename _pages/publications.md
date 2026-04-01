@@ -84,6 +84,9 @@ author_profile: true
 
 ## Grants
 
+- (PI) National Research Foundation of Korea (NRF) Program for In Depth Basic Research (RS-2026-25469371) , Mar 2026 $\sim$ Feb 2036
+
+- (PI) Excellent Young Researcher Grants from the National Research Foundation of Korea (NRF) (RS-2025-00513476) , Mar 2025 $\sim$ Dec 2026
 
 - (co-I)  Basic Research Laboratory (BRL) research grant from the National Research
 Foundation of Korea (NRF) (RS-2023-00219212),  Jun 2023 $\sim$ Feb 2026
