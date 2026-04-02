@@ -12,21 +12,21 @@ classes: wide
 
 # M.S. Students
 
-- Jungmin Lee
+- Jungmin Lee (M.S. 2028)
 
-- Seohyun Won
+- Seohyun Won (M.S. 2028)
 
-- Dohyun Kim
+- Dohyun Kim (M.S. 2027)
 
-- Hyungryul Park
+- Hyungryul Park (M.S. 2027)
 
-- Heegeon Han
+- Heegeon Han (M.S. 2027)
 
-- Gitaek Jeong
+- Gitaek Jeong (M.S. 2027)
 
-- Suyeon Kim
+- Suyeon Kim (M.S. 2026)
 
-- Ho Yeon Ryu
+- Ho Yeon Ryu (M.S. 2026)
 
 - Ahreum Lee (M.S. 2025, First job: Ph.D. Program at Florida State University)
 
