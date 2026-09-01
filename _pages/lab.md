@@ -8,9 +8,13 @@ classes: wide
 
 - Hyungjin Kim
 
-- Chaehyun Ryu
+- Chaehyun Ryu (Ph.D. 2027)
 
 # M.S. Students
+
+- Seongyun Lee (M.S.2028)
+
+- Eunseo Ko (M.S. 2028)
 
 - Jungmin Lee (M.S. 2028)
 
@@ -23,6 +27,9 @@ classes: wide
 - Heegeon Han (M.S. 2027)
 
 - Gitaek Jeong (M.S. 2027)
+
+
+# Alumni
 
 - Suyeon Kim (M.S. 2026)
 

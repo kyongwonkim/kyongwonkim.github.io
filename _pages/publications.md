@@ -7,6 +7,11 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
+- Yubin Jeong., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Learning Low‐Dimensional Representations via Generalized Reduced Rank Regression](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.70167). Stat,  15(3), e70167.
+
+- Chaehyun Ryu., Kyungjin Lee., and **Kyongwon Kim**. <span>*<span> (2025). [On exhaustive sufficient dimension reduction methods for massive datasets](https://link.springer.com/article/10.1007/s00180-026-01780-0). Computational Statistics,  41(5), 96.
+
+- Yujin Park., Chris Lee., Eunsik Kim., Jae Keun Yoo., and **Kyongwon Kim** <span>*<span>(2026). [Functional data analysis of human drivers’ car-following behavior in the mixed traffic of human-driven vehicles and autonomous vehicles](https://www.tandfonline.com/doi/pdf/10.1080/19427867.2026.2656396). Transportation Letters, 1-17.
 
 - **Kyongwon Kim**., Jun Song., and Jae Keun Yoo (2026). [Valid asymptotic inference after sufficient dimension reduction in a single-index framework](https://link.springer.com/article/10.1007/s11222-025-10778-5). Statistics and Computing,  36(24), 1-30.
 
@@ -14,6 +19,7 @@ author_profile: true
 
 - Eftychia Solea., Bing Li., and **Kyongwon Kim**.<span>*<span> (2025). [Learning causal graphs via nonlinear sufficient dimension reduction](https://www.jmlr.org/papers/v26/24-0048.html). Journal of Machine Learning Research,  26(75), 1-46.
 
+- Chaehyun Ryu., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Advances in nonlinear sufficient dimension reduction: theory and implementation via the R package](http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2025.32.5.673). Communications for Statistical Applications and Methods,  32(5), 673-685.
 
 - Minjee Kim., Yujin Park., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components](https://link.springer.com/article/10.1007/s11222-025-10633-7). Statistics and Computing,  35(4), 95.
 
@@ -84,9 +90,11 @@ author_profile: true
 
 ## Grants
 
-- (PI) National Research Foundation of Korea (NRF) Program for In Depth Basic Research (RS-2026-25469371) , Mar 2026 $\sim$ Feb 2036
+- (PI) National Research Foundation of Korea (NRF) Program for In Depth Basic Research (한우물파기 기초연구, RS-2026-25469371) , Mar 2026 $\sim$ Feb 2036
 
-- (PI) Excellent Young Researcher Grants from the National Research Foundation of Korea (NRF) (RS-2025-00513476) , Mar 2025 $\sim$ Dec 2026
+- (PI) Excellent Young Researcher Grants from the National Research Foundation of Korea (NRF) (신진연구, RS-2025-00513476) , Mar 2025 $\sim$ Dec 2026
+
+- (PI) Yonsei Startup Grant, May 2025 $\sim$ Apr 2028
 
 - (co-I)  Basic Research Laboratory (BRL) research grant from the National Research
 Foundation of Korea (NRF) (RS-2023-00219212),  Jun 2023 $\sim$ Feb 2026
@@ -96,7 +104,7 @@ Communications Technology Planning $\&$ Evaluation) (RS-2022-00154879), May 2022
 
 - (co-I) PMC Service for Strengthening Financial Sector Early Warning and Contingency Management Capacity Project in Vietnam from KOICA and Financial Supervisory Service (FSS), Feb 2022 $\sim$ Dec 2025
 
-- (PI) Basic Science Research Program from the National Research Foundation of Korea (NRF) (No.2021R1F1A1046976) , Jun 2021 $\sim$ Feb 2024
+- (PI) Basic Science Research Program from the National Research Foundation of Korea (NRF) (기본연구, No.2021R1F1A1046976) , Jun 2021 $\sim$ Feb 2024
 
 - (PI) Ewha Startup Grant, Mar 2021 $\sim$ Feb 2023
 
@@ -105,8 +113,12 @@ Communications Technology Planning $\&$ Evaluation) (RS-2022-00154879), May 2022
 
 ## Reviewer
 
-- Journal of the Royal Statistical Society Series C
+- Annals of Statistics
+- Journal of American Statistical Association
 - Journal of Machine Learning Research
+- Statistica Sinica
+- Statistics & Computing (Associate Editor)
+- Journal of the Royal Statistical Society Series C
 - Journal of Multivariate Analysis
 - Computational Statistics & Data Analysis
 - STAT
@@ -116,5 +128,15 @@ Communications Technology Planning $\&$ Evaluation) (RS-2022-00154879), May 2022
 - R Journal
 - Biometrics
 
+
+## Awards
+
+- Yonsei Teaching Award (강의우수교원), Feb 2026
+- Ewha Teaching Award (강의우수교원), Feb 2023
+- Ewha Research Grant Award (연구비우수교원), Feb 2023
+- Ewha Best e-Class Teaching Award, Dec 2021
+- American Statistical Association (ASA) Best Student Paper Award in the Business and Economic Statistics Section, Aug 2019
+- National Institute of Statistical Sciences (NISS) Travel Award, May 2019
+- William Harkness Teaching Award, The Pennsylvania State University, Dec 2019
 
 
