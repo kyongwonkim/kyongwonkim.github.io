@@ -7,9 +7,9 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
-- Yubin Jeong., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2025). [Learning Low‐Dimensional Representations via Generalized Reduced Rank Regression](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.70167). Stat,  15(3), e70167.
+- Yubin Jeong., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2026). [Learning Low‐Dimensional Representations via Generalized Reduced Rank Regression](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.70167). Stat,  15(3), e70167.
 
-- Chaehyun Ryu., Kyungjin Lee., and **Kyongwon Kim**. <span>*<span> (2025). [On exhaustive sufficient dimension reduction methods for massive datasets](https://link.springer.com/article/10.1007/s00180-026-01780-0). Computational Statistics,  41(5), 96.
+- Chaehyun Ryu., Kyungjin Lee., and **Kyongwon Kim**. <span>*<span> (2026). [On exhaustive sufficient dimension reduction methods for massive datasets](https://link.springer.com/article/10.1007/s00180-026-01780-0). Computational Statistics,  41(5), 96.
 
 - Yujin Park., Chris Lee., Eunsik Kim., Jae Keun Yoo., and **Kyongwon Kim** <span>*<span>(2026). [Functional data analysis of human drivers’ car-following behavior in the mixed traffic of human-driven vehicles and autonomous vehicles](https://www.tandfonline.com/doi/pdf/10.1080/19427867.2026.2656396). Transportation Letters, 1-17.
 
