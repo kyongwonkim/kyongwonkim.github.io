@@ -7,7 +7,7 @@ author_profile: true
 
 <span>*<span> indicates the corresponding author.
 
-- Dohyun Kim., Hyungryul Park., and  **Kyongwon Kim**. <span>*<span> (2026). [Online Directional Regression for Streaming Sufficient Dimension Reduction](https://openreview.net/pdf?id=zuuQ9Axt80). Neural Information Processing Systems (NeurIPS). (2026).
+- Dohyun Kim., Hyungryul Park., and  **Kyongwon Kim**. <span>*<span> (2026). [Online Directional Regression for Streaming Sufficient Dimension Reduction](https://openreview.net/pdf?id=zuuQ9Axt80). Neural Information Processing Systems (NeurIPS).
 
 - Yubin Jeong., **Kyongwon Kim**. <span>*<span>, and Jae Keun Yoo. (2026). [Learning Low‐Dimensional Representations via Generalized Reduced Rank Regression](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.70167). Stat,  15(3), e70167.
 
